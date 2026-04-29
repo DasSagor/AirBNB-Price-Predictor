@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data files (too large for GitHub)
+data/
+
+# # Models (large files - rebuild from notebooks)
+# models/
+
+# CatBoost training info
+catboost_info/
+
+# Generated images
+*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
