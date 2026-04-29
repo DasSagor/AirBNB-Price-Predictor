@@ -1,0 +1,110 @@
+feature
+latitude
+longitude
+accommodates
+bathrooms
+bedrooms
+beds
+minimum_nights
+maximum_nights
+instant_bookable
+availability_30
+availability_60
+availability_90
+availability_365
+number_of_reviews
+number_of_reviews_ltm
+number_of_reviews_l30d
+review_scores_rating
+review_scores_accuracy
+review_scores_cleanliness
+review_scores_checkin
+review_scores_communication
+review_scores_location
+review_scores_value
+reviews_per_month
+host_is_superhost
+host_response_rate
+host_acceptance_rate
+host_listings_count
+host_total_listings_count
+host_has_profile_pic
+host_identity_verified
+dist_to_center
+amenities_count
+has_wifi
+has_kitchen
+has_air_conditioning
+has_heating
+has_washer
+has_dryer
+has_tv
+has_pool
+has_gym
+has_elevator
+has_free_parking
+has_pet_friendly
+has_smoke_detector
+has_fire_extinguisher
+premium_count
+neighbourhood_cleansed_encoded
+room_type_Hotel room
+room_type_Private room
+room_type_Shared room
+neighbourhood_group_cleansed_Brooklyn
+neighbourhood_group_cleansed_Manhattan
+neighbourhood_group_cleansed_Queens
+neighbourhood_group_cleansed_Staten Island
+property_type_Boat
+property_type_Casa particular
+property_type_Entire bungalow
+property_type_Entire condo
+property_type_Entire cottage
+property_type_Entire guest suite
+property_type_Entire guesthouse
+property_type_Entire home
+property_type_Entire loft
+property_type_Entire place
+property_type_Entire rental unit
+property_type_Entire serviced apartment
+property_type_Entire townhouse
+property_type_Entire vacation home
+property_type_Entire villa
+property_type_Houseboat
+property_type_Private room
+property_type_Private room in bed and breakfast
+property_type_Private room in bungalow
+property_type_Private room in casa particular
+property_type_Private room in castle
+property_type_Private room in condo
+property_type_Private room in cottage
+property_type_Private room in earthen home
+property_type_Private room in guest suite
+property_type_Private room in guesthouse
+property_type_Private room in home
+property_type_Private room in hostel
+property_type_Private room in kezhan
+property_type_Private room in loft
+property_type_Private room in ranch
+property_type_Private room in rental unit
+property_type_Private room in resort
+property_type_Private room in serviced apartment
+property_type_Private room in tiny home
+property_type_Private room in townhouse
+property_type_Private room in vacation home
+property_type_Private room in villa
+property_type_Room in aparthotel
+property_type_Room in boutique hotel
+property_type_Room in hotel
+property_type_Room in serviced apartment
+property_type_Shared room in condo
+property_type_Shared room in guest suite
+property_type_Shared room in guesthouse
+property_type_Shared room in home
+property_type_Shared room in rental unit
+property_type_Shared room in serviced apartment
+property_type_Shared room in townhouse
+property_type_Tiny home
+host_response_time_within a day
+host_response_time_within a few hours
+host_response_time_within an hour
