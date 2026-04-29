@@ -6,6 +6,8 @@
 ![R²](https://img.shields.io/badge/R²-0.752-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
+**🔗 Live Demo:** [Click Here](https://your-app.streamlit.app)
+
 **End-to-end Machine Learning project for predicting Airbnb nightly prices in New York City.**
 
 ---
