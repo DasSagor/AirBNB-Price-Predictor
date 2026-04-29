@@ -6,7 +6,7 @@
 ![R²](https://img.shields.io/badge/R²-0.752-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-**🔗 Live Demo:** [Click Here](https://your-app.streamlit.app)
+**🔗 Live Demo:** [Click Here](https://airbnb-price-predictor-das.streamlit.app)
 
 **End-to-end Machine Learning project for predicting Airbnb nightly prices in New York City.**
 
@@ -261,7 +261,7 @@ Data obtained from [**Inside Airbnb**](http://insideairbnb.com/get-the-data/) �
 | Platform | Link |
 |----------|------|
 | 💻 GitHub | [@DasSagor](https://github.com/DasSagor) |
-| 🔗 Live Demo | [Streamlit App](#) |
+| 🔗 Live Demo | [Streamlit App](https://airbnb-price-predictor-das.streamlit.app) |
 | 📊 Dataset | [Inside Airbnb](http://insideairbnb.com/get-the-data/) |
 
 ---
